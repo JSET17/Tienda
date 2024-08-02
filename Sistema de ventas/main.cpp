@@ -1,8 +1,11 @@
-#include <iostream>
+#include<Menu.h>
+
+#include<iostream>
 
 using namespace std;
 
+
 int main() {
-    cout << "Hello world!" << endl;
+    Menu().menu();
     return 0;
 }
