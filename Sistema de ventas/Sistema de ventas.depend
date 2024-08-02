@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1722556688 source:c:\jset\estudio\universidad\semestre ii\poo\laboratorio 4\tienda\sistema de ventas\src\menu.cpp
+	"Menu.h"
+
+1722556731 c:\jset\estudio\universidad\semestre ii\poo\laboratorio 4\tienda\sistema de ventas\include\menu.h
+	<iostream>
+
+1722556821 source:c:\jset\estudio\universidad\semestre ii\poo\laboratorio 4\tienda\sistema de ventas\main.cpp
+	<Menu.h>
+	<iostream>
+
